@@ -1,5 +1,5 @@
 ## Structure du projet
-
+```
 src/
 ├── components/ # React components (e.g., UI overlays, menus)
 │ ├── GameUI.jsx # HUD, menus, etc.
@@ -24,3 +24,4 @@ src/
 ├── App.jsx # Main app component (integrate Canvas here)
 ├── main.jsx # Entry point
 └── ...
+```
