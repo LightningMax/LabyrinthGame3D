@@ -1,0 +1,19 @@
+.game-gui-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  color: #fff;
+}
+
+.menu-layout {
+  text-align: center;
+}
+
+.play-button {
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
