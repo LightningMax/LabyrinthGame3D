@@ -1,11 +1,11 @@
 import "./App.css";
-import LabyrinthScene from "./three/scenes/LabyrinthScene";
+import GameGUI from "./components/GameGUI";
 
 function App() {
-  // simple container for our 3D scene
+  // Composant racine : lance le menu GameGUI
   return (
     <div className="App">
-      <LabyrinthScene />
+      <GameGUI />
     </div>
   );
 }
